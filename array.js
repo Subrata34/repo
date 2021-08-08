@@ -1,8 +1,5 @@
 //uniqe=[];
-//     for (let i=0;i<a.length;i++){
-//       const element=a[i];
-//     }
-//     for(const element of a){
+//     for (lent of a){
 //         console.log(element);
 //         if(uniqe.indexOf(element)==-1){
 //               uniqe.push(element);
